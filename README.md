@@ -1,0 +1,2 @@
+# prefs_population
+都道府県別の人口推移を動的にグラフとして出力するアプリです。reactとtypescriptを使用しています。
